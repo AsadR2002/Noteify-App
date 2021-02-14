@@ -1,10 +1,11 @@
 
 import React from "react";
+import BookmarksIcon from '@material-ui/icons/Bookmarks';
 
 function Header(){
     return (<header>
         
-        <h1 class = "header">Noteify</h1>
+        <h1 class = "header"><BookmarksIcon/>Noteify</h1>
 
     </header>);
     
