@@ -8,7 +8,7 @@ import { createNotEmittedStatement } from "typescript";
 
 function App(){
 
-
+    //test code 
     const [notes, setNotes] = useState([])
 
     function addNote(note){
